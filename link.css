@@ -24,7 +24,7 @@
         "company_name company_name list list list list list list"
         "con2 con2 con2 con2 con2 con2 con2 con2"
         "con2 con2 con2 con2 con2 con2 con2 con2"
-        "con3 con3 con3 con3 con3 con3 con3 con3"
+        "con2 con2 con2 con2 con2 con2 con2 con2"
         "con3 con3 con3 con3 con3 con3 con3 con3";
 }
 
@@ -75,7 +75,7 @@
 .list_2{
     margin: 10px;
     display: flex;
-    align-self: end;
+    align-self: flex-end;
 }
 
 .lll{
